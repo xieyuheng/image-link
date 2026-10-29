@@ -1,4 +1,0 @@
-ambr    “    「
-ambr    ”    」
-ambr    ‘    『
-ambr    ’    』
