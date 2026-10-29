@@ -1,22 +1,9 @@
-a.out
+# emacs
 
-core.h
-./play
+.wrangler/
 
-*.o
-*.so
+# emacs
 
 *~
-
-*#*
-
+\#*
 .#*
-
-oprofile_data/
-gmon.out
-
-core.jojo.*
-vgcore.*
-
-__pycache__/
-.cache/
